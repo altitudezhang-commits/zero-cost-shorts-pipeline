@@ -1,0 +1,10 @@
+# 成品与素材（大文件不上库）
+*.mp4
+*.mp3
+*.wav
+clips/
+covers/
+trial_realfootage/
+# 运营状态文件（每日变化不上库）
+ig_queue.json
+upload_urls.json
